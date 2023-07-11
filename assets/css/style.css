@@ -176,3 +176,57 @@ button {
 button:hover {
     background-color: #f4b41a;
 }
+
+/*  images work out */
+
+#workout img {
+    width: 280px;
+    height: 280px;
+    padding: 20px;
+
+}
+
+#workout ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+
+}
+
+/* footer */
+
+footer {
+    height: 150px;
+    width: 1800px;
+    background-color: black;
+    padding-top: 4%;
+    border-radius: 20px;
+}
+
+footer h2 {
+    font-family: sans-serif, 'Courier New', Courier, monospace;
+    color: #fcfcfcf2;
+    text-align: center;
+}
+
+.social-midia {
+    text-align: center;
+}
+
+.social-midia li {
+    display: inline-block;
+    line-height: 100px;
+}
+
+.social-midia i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: white;
+    background-color: rgb(1, 1, 1);
+}
+
+.social-midia a {
+    padding: 0 20px;
+
+}
