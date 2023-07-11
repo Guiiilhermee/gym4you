@@ -1,3 +1,91 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    border: none;
+}
+
 body {
-    font-family: Arial;
+    background-color: #dad9d8;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h1,
+h2,
+h3 {
+    font-family: sans-serif, 'Courier New', Courier, monospace;
+    color: #143d59;
+    text-align: center;
+}
+
+/* nav */
+
+.logo {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 400px;
+    background-color: #f4b41a;
+    font-weight: bold;
+    color: #143d59;
+    padding: 50px;
+    font-size: 200%;
+    text-align: center;
+}
+
+/* menu */
+
+
+html {
+    scroll-behavior: smooth;
+}
+
+header,
+section {
+    width: 100%;
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    background-color: #143d59;
+}
+
+
+nav ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #143d59;
+    width: 100%;
+    max-width: 600px;
+}
+
+nav ul li {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    display: inline-block;
+    line-height: 80px;
+}
+
+nav ul li a {
+    display: flex;
+    width: 100%;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: arial;
+    color: white;
+    padding: 0 20px;
+}
+
+nav ul li a:hover {
+    color: #f4b41a;
 }
