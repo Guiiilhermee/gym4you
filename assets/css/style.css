@@ -21,7 +21,7 @@ h3 {
     text-align: center;
 }
 
-/* nav */
+/* navigation */
 
 .logo {
     width: 100%;
@@ -37,8 +37,7 @@ h3 {
     text-align: center;
 }
 
-/* menu */
-
+/* menu style */
 
 html {
     scroll-behavior: smooth;
