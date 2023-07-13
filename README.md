@@ -14,3 +14,10 @@ Gym 4 you is a site where you can follow the tips to start moving yourself. You 
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
 
 ![Nav Bar]()
+
+- **The Footer**
+
+  - The footer section includes links to the relevant social media sites for Gym 4 you. The links will open to a new tab to allow easy navigation for the user.
+  - The footer is valuable to the user as it encourages them to keep connected via social media.
+
+![Footer]()
