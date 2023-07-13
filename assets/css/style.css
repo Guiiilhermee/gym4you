@@ -4,6 +4,7 @@
     border: none;
 }
 
+
 body {
     background-color: #dad9d8;
     width: 100%;
@@ -197,7 +198,7 @@ button:hover {
 
 footer {
     height: 150px;
-    width: 1800px;
+    width: 100%;
     background-color: black;
     padding-top: 4%;
     border-radius: 20px;
