@@ -21,3 +21,9 @@ Gym 4 you is a site where you can follow the tips to start moving yourself. You 
   - The footer is valuable to the user as it encourages them to keep connected via social media.
 
 ![Footer]()
+
+- **The Sign Up Page**
+
+  - This page will allow the user to get signed up to Gym for you to start their work out anytime. The user will be asked to submit their full name and email address.
+
+![Sign Up]()
