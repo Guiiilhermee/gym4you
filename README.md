@@ -58,4 +58,17 @@ When I deployed my project to Github pages I forgot to refresh the page and I th
 
   - I have confirmed that the colors and fonts chosen are easy to read and accessible by ruinning it through lighthouse in devtools.
 
-  ![Lighthouse]()W
+  ![Lighthouse]()
+
+### Unfixed Bugs
+
+No unfixed bugs.
+
+## Deployment
+
+- The site was deployed to GitHub pages. The steps to deploy are as follows:
+  - In the GitHub repository, navigate to the Settings tab
+  - From the source section drop-down menu, select the Main
+  - Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+
+The live link can be found here - https://guiiilhermee.github.io/gym4you/
