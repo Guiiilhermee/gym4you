@@ -27,3 +27,35 @@ Gym 4 you is a site where you can follow the tips to start moving yourself. You 
   - This page will allow the user to get signed up to Gym for you to start their work out anytime. The user will be asked to submit their full name and email address.
 
 ![Sign Up]()
+
+### Features Left to Implement
+
+- idea
+
+## Testing
+
+- I tested that this page works in different browsers: Chrome; Firefox, Safari, Google Edge.
+
+- I have confirmed that this project is responsive, looks good and functions on all screen sizes are working.
+
+- I have confirmed that the navigation, header, sign up page and midia are readable and easy to understand.
+
+- I have that the form works: requires entries in every field, will only accept an email in the email field, and the submit button works.
+
+## bugs
+
+### Solved bugs
+
+When I deployed my project to Github pages I forgot to refresh the page and I thought that the live link had not worked. Then after few minutes of searching how to fix the "bug" I realized that I did not refresh the page, after I refresh the live link showed up.
+
+### Validator Testing
+
+- HTML
+  - No errors were returned when passing through the official [W3C validator]()
+- CSS
+  - No errors were found when passing through the official [(Jigsaw) validator]
+- Accessibility
+
+  - I have confirmed that the colors and fonts chosen are easy to read and accessible by ruinning it through lighthouse in devtools.
+
+  ![Lighthouse]()W
