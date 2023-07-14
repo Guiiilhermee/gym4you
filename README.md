@@ -56,7 +56,7 @@ Gym 4 you is a site where you can follow the tips to start moving yourself. You 
 
 - I have that the form works: requires entries in every field, will only accept an email in the email field, and the submit button works.
 
-## bugs
+## Bugs
 
 ### Solved bugs
 
@@ -86,3 +86,15 @@ No unfixed bugs.
   - Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
 The live link can be found here - https://guiiilhermee.github.io/gym4you/
+
+## Credits
+
+### Content
+
+- The text for the work out section step by step are from [muscle wiki](https://musclewiki.com/)
+- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+
+### Media
+
+- The gifs used on the work out page are from [fitness programer](https://fitnessprogramer.com/)
+- The text used for the yellow box over main image was taken from [helthline](https://www.healthline.com/nutrition/how-to-start-exercising)
