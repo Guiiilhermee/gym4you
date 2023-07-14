@@ -15,18 +15,25 @@ Gym 4 you is a site where you can follow the tips to start moving yourself. You 
 
 ![Nav Bar]()
 
-- **The Footer**
+- **The main image**
 
-  - The footer section includes links to the relevant social media sites for Gym 4 you. The links will open to a new tab to allow easy navigation for the user.
-  - The footer is valuable to the user as it encourages them to keep connected via social media.
+  - The main image includes a photograph with text over to allow the user to have an idea of the website.
+  - This section introduces the user to Gym 4 you with intense exercise to grab their attention.
 
-![Footer]()
+![main image]()
 
 - **The Sign Up Page**
 
   - This page will allow the user to get signed up to Gym for you to start their work out anytime. The user will be asked to submit their full name and email address.
 
 ![Sign Up]()
+
+- **The Footer**
+
+  - The footer section includes links to the relevant social media sites for Gym 4 you. The links will open to a new tab to allow easy navigation for the user.
+  - The footer is valuable to the user as it encourages them to keep connected via social media.
+
+![Footer]()
 
 ### Features Left to Implement
 
