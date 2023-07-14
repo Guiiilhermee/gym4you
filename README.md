@@ -1,6 +1,6 @@
 # Gym 4 You
 
-Gym 4 you is a site where you can follow the tips to start moving yourself. You can sign up to stay up to date about each new section of exercise. Gym 4 you will be useful for beginners to see exactly how to do any type of exercises. if you hope to build your dream body you should start at Gym 4 you.
+Gym 4 you is a site where you can follow the tips to start moving yourself. You can sign up to stay up to date about each new section of exercise. Gym 4 you will be useful for beginners to see exactly how to do any type of exercise. If you hope to build your dream body you should start at Gym 4 you.
 
 ![Responsive Mockup](https://guiiilhermee.github.io/gym4you/intense-workout.jpg)
 
@@ -27,6 +27,13 @@ Gym 4 you is a site where you can follow the tips to start moving yourself. You 
   - This page will allow the user to get signed up to Gym for you to start their work out anytime. The user will be asked to submit their full name and email address.
 
 ![Sign Up]()
+
+- **Work out Section**
+
+  - The Work out section will allow the user to see exactly how to do an especific exercise.
+  - The user will see the value of signing up for the Gym 4 You. This should encourage the user to follow each exercise step by step.
+
+![work out]()
 
 - **The Footer**
 
