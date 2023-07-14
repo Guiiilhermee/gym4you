@@ -30,7 +30,7 @@ Gym 4 you is a site where you can follow the tips to start moving yourself. You 
 
 ### Features Left to Implement
 
-- idea
+- In the future I can add a schedule time for each activity then it would be easier for users keep up the progress.
 
 ## Testing
 
