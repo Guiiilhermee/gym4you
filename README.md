@@ -42,7 +42,7 @@ Gym 4 you is a site where you can follow the tips to start moving yourself. You 
 
 ![Footer]()
 
-### Features Left to Implement
+## Features Left to Implement
 
 - In the future I can add a schedule time for each activity then it would be easier for users keep up the progress.
 
@@ -85,7 +85,7 @@ No unfixed bugs.
   - From the source section drop-down menu, select the Main
   - Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
-The live link can be found here - https://guiiilhermee.github.io/gym4you/
+The live link can be found here - [Gym 4 You](https://guiiilhermee.github.io/gym4you/)
 
 ## Credits
 
