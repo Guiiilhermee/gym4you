@@ -65,8 +65,11 @@ When I deployed my project to Github pages I forgot to refresh the page and I th
 ### Validator Testing
 
 - HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?showsource=yes&checkerrorpages=yes&useragent=Validator.nu%2FLV+http%3A%2F%2Fvalidator.w3.org%2Fservices&acceptlanguage=&doc=https%3A%2F%2Fguiiilhermee.github.io%2Fgym4you%2F)
+  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fguiiilhermee.github.io%2Fgym4you%2Fvalidator.w3.org%2Fservices&acceptlanguage=&doc=https%3A%2F%2Fguiiilhermee.github.io%2Fgym4you%2F)
 - CSS
+
+
+][(http://jigsaw.w3.org/css-validator/validator?lang=en&pro(file=c)validators3svg&uri=https%3A%2F%2Fguiiilhermee.github.io%2Fgym4you%2F&usermedium=all&vextwarning=&warning=1
 
   - No errors were found when passing through the official [(Jigsaw)validator](http://jigsaw.w3.org/css-validator/validator?lang=en&profile=css3svg&uri=https%3A%2F%2Fguiiilhermee.github.io%2Fgym4you%2F&usermedium=all&vextwarning=&warning=1)
 
