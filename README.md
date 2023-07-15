@@ -67,7 +67,9 @@ When I deployed my project to Github pages I forgot to refresh the page and I th
 - HTML
   - No errors were returned when passing through the official [W3C validator]()
 - CSS
-  - No errors were found when passing through the official (Jigsaw validator)
+
+  - No errors were found when passing through the official [(Jigsaw) validator] (http://jigsaw.w3.org/css-validator/validator?lang=en&profile=css3svg&uri=https%3A%2F%2Fguiiilhermee.github.io%2Fgym4you%2F&usermedium=all&vextwarning=&warning=1)
+
 - Accessibility
 
   - I have confirmed that the colors and fonts chosen are easy to read and accessible by ruinning it through lighthouse in devtools.
